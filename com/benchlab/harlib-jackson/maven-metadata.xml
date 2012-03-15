@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.benchlab</groupId>
-  <artifactId>harlib</artifactId>
+  <artifactId>harlib-jackson</artifactId>
   <versioning>
     <release>1.0b10</release>
     <versions>
